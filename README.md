@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/gajendraarya786/gajendraarya786/blob/main/banner.png)](https://github.com/gajendraarya786)
 <h1 align="center">Hi 👋, I'm Gajendra Kumar Arya</h1>
 <h3 align="center">A passionate frontend developer loves to build new stuff aiming to solve real world problems</h3>
 
