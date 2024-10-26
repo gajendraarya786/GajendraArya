@@ -1,15 +1,15 @@
 [![MasterHead](https://github.com/gajendraarya786/gajendraarya786/blob/main/Banner.png)](https://github.com/gajendraarya786)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajendraarya786" alt="gajendraarya786" /></a> </p>
-About Me
+##About Me
        -	💡 Actively learning Full Stack Development, SQL and various AI ools.
        -  📚 Currently exploring data structures to strengthen my foundation.
-Skills               
-       -	Programming Languages: C, Javascript, C++
-       -  Web Development: Html, CSS, Javascript 
-       - 	Libraries: React.js
-       -	Version Control: Git & GitHub
-       -  Operating System: Linux
+##Skills             
+       -Programming Languages: C, Javascript, C++
+       -Web Development: Html, CSS, Javascript 
+       -Libraries: React.js
+       -Version Control: Git & GitHub
+       -Operating System: Linux
        -📫 Reach me gajendra.work538@gmail.com
 
 - 🌱 I’m currently learning **React.js, Next.js**
